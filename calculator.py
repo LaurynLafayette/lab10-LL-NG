@@ -1,3 +1,6 @@
+# https://github.com/LaurynLafayette/lab10-LL-NG
+# Partner 1: Lauryn Lafayette
+# Partner 2: Nick Guedes
 """
 calculator.py
 - Defines functions used to create a simple calculator
